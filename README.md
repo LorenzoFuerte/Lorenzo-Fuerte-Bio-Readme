@@ -2,8 +2,6 @@
 
 ## Hello!
 
-###Hello!
-
 **Hello!**
 
 *Hello!*
